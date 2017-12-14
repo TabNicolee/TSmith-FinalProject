@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway");
+body{background:#39dede;background:linear-gradient(180deg, #6FCCDD, #33449B);font-family:Raleway; background-repeat: no-repeat;}
+img{width:100%;height:auto;padding:0px 15px 0px 15px}
+H1{font-family:Raleway;font-size:45px; color:#7A7979;}
+H2,H3{font-family:Raleway;font-size:30px;font-weight:bold; color: #33449B;line-height: 150%; margin: 25px;}
+H3,H5{font-size:18px;}
+p,H4{font-family:Raleway;font-size:25px;color:#7A7979; margin-left: 35px; margin-right:35px;}
+H4{font-size:18px}
+H5,H6{color: black; font-size: 25px;line-height: 150%; margin: 25px}
+H6{color:#7A7979;}
+.container, .topheavycontainer{background-color: white; padding-top:25px; padding-bottom:25px; margin-top:50px; margin-bottom:50px;}
+.topheavycontainer{padding-top:75px; padding-bottom:75px;}
+.largeemoji{max-width:65%; display: block; margin-left: auto; margin-right: auto; }
+a {text-decoration: none; display: inline-block;}
+.previous, .next {background-color: #CECEF4; color: white; padding: 8px 16px;}
+.round {border-radius: 50%;}

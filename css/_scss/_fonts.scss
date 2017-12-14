@@ -1,0 +1,16 @@
+// Font Variables
+$headline: Raleway;
+$body: Raleway;
+
+
+$headline-fb:sans-serif;
+$body-fb:sans-serif;
+
+
+$headline-font-size:15px;
+
+h1 {color: $color-grey;}
+h2 {color: $color-blue;}
+p {color: $color-grey;}
+
+@import url('https://fonts.googleapis.com/css?family=Raleway');

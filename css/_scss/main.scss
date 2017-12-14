@@ -1,0 +1,44 @@
+@import '_colors.scss';
+@import '_fonts.scss';
+@import '_urls.scss';
+@import '_mixins.scss';
+
+// Your CSS/SCSS below this line
+
+body {
+@include linear-gradient($background-grad-1, $background-grad-2);
+font-family: Raleway;
+}
+
+img{
+  width:100%;
+  height: auto;
+  padding-bottom: 30px;
+}
+
+H1{
+  font-family:Raleway;
+  font-size: 275px;
+  color:grey;
+}
+
+H2{
+  font-family:Raleway;
+  font-size:55px;
+  font-weight:bold;
+  padding-bottom: 25px;
+}
+
+p{
+  font-family:Raleway;
+  font-size:25px;
+  color:grey;
+}
+
+.container{
+  background-color: white;
+}
+
+img{
+  padding:5px;
+}
